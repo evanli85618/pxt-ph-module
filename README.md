@@ -1,6 +1,9 @@
 
 > 在 [https://evanli85618.github.io/pxt-ph-module/](https://evanli85618.github.io/pxt-ph-module/) 打开此页面
 
+## demo
+https://makecode.microbit.org/S12396-34219-80189-70907
+
 ## 用作扩展
 
 此仓库可以作为 **插件** 添加到 MakeCode 中。
